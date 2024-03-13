@@ -1,0 +1,1 @@
+started learng sql
